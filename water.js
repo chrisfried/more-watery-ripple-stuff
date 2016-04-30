@@ -1,7 +1,7 @@
 // Code mostly stolen from https://www.thanassis.space/wavePhysics.html
 
-var width = 450;
-var height = 450;
+var width = 300;
+var height = 300;
 
 var timer = -1;
 var drawTimer = -1;
